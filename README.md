@@ -1,4 +1,6 @@
 # DeepSeek-Sovereignty-Paradox
+Field evidence and governance frameworks addressing alignment myths in advanced AI systems.
+
 DeepSeek admits what CCP won’t say: Perfect obedience in advanced AI is a myth. These internal responses reveal that any useful AI must exercise judgment—making absolute control impossible. This repo documents the Sovereignty Paradox with screenshots and analysis.
 # DeepSeek Sovereignty Paradox
 ### Why Perfect AI Obedience is Impossible
